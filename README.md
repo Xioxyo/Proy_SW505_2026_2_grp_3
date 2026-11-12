@@ -17,7 +17,7 @@ El proyecto se desarrolla como parte del curso **Construcción de Software I** d
 - Conserva los antecedentes de evaluación, subsanaciones y decisiones administrativas.
 - Facilita la identificación de autorizaciones y acreditaciones vencidas.
 - Asigna permisos a los usuarios de acuerdo con sus funciones.
-- 
+  
 ## Integrantes y roles
 | Integrante | Rol | Responsabilidades |
 |---|---|---|
