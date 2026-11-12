@@ -22,5 +22,5 @@ El proyecto se desarrolla como parte del curso **Construcción de Software I** d
 | Integrante | Rol | Responsabilidades |
 |---|---|---|
 | Diana | Análisis de sistemas y diseño arquitectónico | Casos de uso de sistema, diagrama entidad-relación y definición de objetivos, patrón y decisiones arquitectónicas. |
-| Astrid | Análisis de negocio y diseño del dominio | Casos de uso de negocio, diccionario de datos lógico, tipos de datos abstractos (ADTs) y diagramas de arquitectura. |
+| Astrid | Análisis de negocio y diseño del dominio | Casos de uso de negocio, diccionario de datos lógico, tipos de datos abstractos (ADTs). |
 | Iván | Análisis de requerimientos y diseño de datos | Requerimientos, modelo físico de datos, organización de módulos, comunicación entre módulos y plan de implementacion y despliegue |
